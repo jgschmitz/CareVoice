@@ -1,0 +1,8 @@
+streamlit>=1.35.0
+audio-recorder-streamlit>=0.0.10
+faster-whisper>=1.0.3
+soundfile>=0.12.1
+openai==0.28.1
+edge-tts>=6.1.12
+numpy>=1.26.0
+pymongo>=4.8.0
