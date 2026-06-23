@@ -1,3 +1,4 @@
+# create embeddings here - 
 from voyageai import Client as VoyageClient
 
 voyage_client = VoyageClient(api_key="your_key")
