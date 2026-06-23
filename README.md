@@ -10,7 +10,7 @@ CareVoice AI demonstrates how healthcare organizations can leverage voice interf
 
 Users speak naturally into a microphone, Whisper transcribes the conversation, OpenAI generates a contextual response, and MongoDB Atlas stores conversational state for continuity across interactions.
 
-The goal is not simply voice interaction—it is the creation of a persistent healthcare memory layer that enables personalized experiences over time.
+The goal is not simply voice interaction it is the creation of a persistent healthcare memory layer that enables personalized experiences over time. If your phone is connected to your laptop you will have the option to use that as the mic also! 
 
 ---
 
