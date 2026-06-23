@@ -1,4 +1,3 @@
-# re-usuable pipeline
 from embed_utils import get_embedding
 from mongo_utils import hybrid_vector_search
 import openai
